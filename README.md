@@ -3,16 +3,18 @@
 This dashboard provides an analytical overview of the electric vehicle (EV) population across various dimensions, including total vehicles, model year, state-wise distribution, and other key metrics.
 
 
-**Key Features**
+         **Key Features**
 
 1.Total Vehicles:
 
 - Total registered EVs: 177.87K
 - Breakdown by Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
-- Average Electric Range:
+  
+2.Average Electric Range:
 
-Average electric range of EVs: 58.84 Miles.
-EV Types Distribution:
+- Average electric range of EVs: 58.84 Miles.
+  
+3.EV Types Distribution:
 
 Percentage of BEVs: 78.3%.
 Percentage of PHEVs: 21.7%.
