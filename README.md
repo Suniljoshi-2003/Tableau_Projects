@@ -3,8 +3,9 @@
 This dashboard provides an analytical overview of the electric vehicle (EV) population across various dimensions, including total vehicles, model year, state-wise distribution, and other key metrics.
 
 
-** Key Features **
-Total Vehicles:
+**Key Features**
+
+ Total Vehicles:
 
 Total registered EVs: 177.87K
 Breakdown by Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
