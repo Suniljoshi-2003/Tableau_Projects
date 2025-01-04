@@ -45,3 +45,7 @@ This dashboard provides an analytical overview of the electric vehicle (EV) popu
 - Tesla dominates the market, followed by Nissan, Chevrolet, and other brands.
 - A majority of EVs are Battery Electric Vehicles (BEVs).
 - Washington leads state-wise EV registrations.
+
+## Dashboard Link
+
+You can view the interactive dashboard [here](https://your-dashboard-link.com).
