@@ -56,60 +56,32 @@ You can view the interactive dashboard [here](https://Electric_vehical_populatio
 #Pizza Sales Analysis Dashbord
 
 Overview
+
 This dashboard provides a comprehensive analysis of pizza sales data, including trends across categories, sizes, order times, and more. It is designed to offer insights into customer preferences, peak sales periods, and overall business performance.
 
 Key Metrics and Features
-Total Orders:
-Displays the total number of pizza orders (48.6K).
 
-Total Revenue:
-Showcases the total revenue generated ($817.9K).
+1. Total Orders:
+- Displays the total number of pizza orders (48.6K).
 
-Average Order Value:
-Indicates the average revenue per order ($16.8).
+2. Total Revenue:
+- Showcases the total revenue generated ($817.9K).
 
-Total Pizza Sold:
-Represents the total number of pizzas sold (49.6K).
+3. Average Order Value:
+- Indicates the average revenue per order ($16.8).
 
-Sales by Category:
-A donut chart highlights revenue and order distribution across four categories:
+4.Total Pizza Sold:
+- Represents the total number of pizzas sold (49.6K).
 
-Veggie: $193.6K (16.9%)
-Chicken: $195.9K (17.3%)
-Supreme: $208.2K (17.7%)
-Classic: $220.0K (15.9%)
-Hourly Trends:
-Analyzes pizza sales volume during different hours of the day to identify peak times (e.g., 6 PM with 6,776 sales).
+5. Sales by Category:
+- A donut chart highlights revenue and order distribution across four categories:
 
-Weekly Trends:
-Tracks weekly pizza sales, highlighting average weekly sales for comparison.
+- Veggie: $193.6K (16.9%)
+- Chicken: $195.9K (17.3%)
+- Supreme: $208.2K (17.7%)
+- Classic: $220.0K (15.9%)
 
-Monthly Trends:
-Displays monthly pizza sales performance across the year.
 
-Slider Chart:
-Compares the popularity of pizza sizes (Large, Medium, Regular, XL, XXL) based on the number sold.
+## Dashboard Link
 
-How to Use
-Filter Options:
-Use the dropdown menus to filter data by Month of Order Date or Pizza Category.
-Insights at a Glance:
-Visualize key metrics for a quick understanding of sales performance.
-Trend Analysis:
-Explore trends to determine when and what customers prefer.
-Tools and Technologies Used
-Data Analysis: Excel/Power BI/Tableau
-Visualization: Charts (Donut, Line, Area, Bar)
-Data Source: Pizza sales data
-Insights and Recommendations
-High Demand Hours:
-Focus marketing efforts on the peak sales hour (6 PM).
-
-Category Popularity:
-Increase promotions for the most popular pizza categories (e.g., Classic and Supreme).
-
-Size Trends:
-Ensure availability of large and XXL pizzas during high-demand periods.
-
-Seasonal Trends:
-Analyze monthly data for seasonal promotions.
+You can view the interactive dashboard [here](https:).
