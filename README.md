@@ -86,3 +86,43 @@ Key Metrics and Features
 
 You can view the interactive dashboard [here](https://pizza sales.twb)
 
+
+
+
+
+
+# Sales Dashboard
+
+## Overview
+
+This dashboard provides a detailed analysis of sales data, categorized by various dimensions such as gender, payment method, product category, and more. It is designed to offer insights into sales performance, customer behavior, and revenue trends.
+
+## Key Metrics and Features
+
+1. **Sales by Gender**:
+   - Visualizes sales distribution based on gender.
+
+2. **Sales by Payment Method**:
+   - Shows sales breakdown by different payment methods.
+
+3. **Sales by Category**:
+   - Displays sales data across different product categories.
+
+4. **Sales by Email**:
+   - Provides insights into sales made through email campaigns.
+
+5. **Sales by Invoice Month**:
+   - Illustrates sales trends over different months.
+
+## Dashboard Link
+
+You can view the interactive dashboard [here](https://public.tableau.com/views/SalesDashboard_17395578853720/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+
+
+
+
+
+
+
+
