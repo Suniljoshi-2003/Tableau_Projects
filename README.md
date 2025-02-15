@@ -113,6 +113,11 @@ This dashboard provides a detailed analysis of sales data, categorized by variou
 
 5. **Sales by Invoice Month**:
    - Illustrates sales trends over different months.
+  
+
+## Dashboard Preview
+![Sales Stroe data report Dashboard]()
+---
 
 ## Dashboard Link
 
