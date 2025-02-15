@@ -116,7 +116,7 @@ This dashboard provides a detailed analysis of sales data, categorized by variou
   
 
 ## Dashboard Preview
-![Sales Stroe data report Dashboard]()
+![Sales Stroe data report Dashboard](https://github.com/Suniljoshi-2003/Tableau_Projects/blob/main/Sales%20Dashboard%20twb.jpg)
 ---
 
 ## Dashboard Link
