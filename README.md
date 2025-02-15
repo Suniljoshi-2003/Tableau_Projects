@@ -84,6 +84,9 @@ Key Metrics and Features
 - Supreme: $208.2K (17.7%)
 - Classic: $220.0K (15.9%)
 
+## Dashboard Preview
+![pizza Sales Dashboard](https://github.com/Suniljoshi-2003/Tableau_Projects/blob/main/pizza%20sales%20Dashboard.png)
+
 
 ## Dashboard Link
 
