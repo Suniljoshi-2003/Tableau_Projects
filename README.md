@@ -46,6 +46,9 @@ This dashboard provides an analytical overview of the electric vehicle (EV) popu
 - A majority of EVs are Battery Electric Vehicles (BEVs).
 - Washington leads state-wise EV registrations.
 
+## Dashboard Preview
+![Electric Vehical Dashboard](https://github.com/Suniljoshi-2003/Tableau_Projects/blob/main/Electric_vehical.png)
+
 ## Dashboard Link
 
 You can view the interactive dashboard [here](https://Electric_vehical_population.twb).
